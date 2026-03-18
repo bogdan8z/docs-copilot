@@ -4,16 +4,14 @@
 
 This project contains a collection of reusable Copilot agents and instructions designed to enhance productivity and code quality. It includes specialized agents for code review, performance analysis, and security assessment, along with comprehensive Copilot configuration guidelines.
 
-## Folder Structure
-
 ```text
 ├── agents/
-│   ├── code-reviewer.agent.md
-│   ├── performance-analyst.agent.md
-│   └── security-specialist.agent.md
+│   ├── code-reviewer.agent.md          # Agent for automated code review and quality checks
+│   ├── performance-analyst.agent.md    # Agent for performance profiling and optimization
+│   └── security-specialist.agent.md    # Agent for security vulnerability detection
 ├── instructions/
-│   └── copilot-instructions.md
-└── README.md
+│   └── copilot-instructions.md         # Copilot configuration and usage guidelines
+└── README.md                            # Project overview and documentation
 ```
 
 ## Links
