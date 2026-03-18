@@ -1,5 +1,9 @@
 # Copilot useful stuff
 
+## Description
+
+This project contains a collection of reusable Copilot agents and instructions designed to enhance productivity and code quality. It includes specialized agents for code review, performance analysis, and security assessment, along with comprehensive Copilot configuration guidelines.
+
 ## Folder Structure
 
 ```text
